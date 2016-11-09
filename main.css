@@ -1,0 +1,29 @@
+
+.top-container{
+
+}
+.name-info {
+  text-align: center;
+}
+.header-photo{
+  width:100px;
+  height: 100px;
+  float: left;
+}
+
+.navbar {
+  float: right;
+  display: inline;
+  padding: 20px 10px 10px 20px;
+}
+
+.picture1{
+  width:300px;
+  height:200px;
+  float: left;
+}
+
+.article-content{
+
+}
+
